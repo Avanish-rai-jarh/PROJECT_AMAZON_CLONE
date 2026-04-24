@@ -1203,7 +1203,7 @@ cursor: pointer;
     background-repeat: no-repeat;
     background-position: center;
 }
-.not-supported {
+/**.not-supported {
   display: none;
 }
 .main-content {
@@ -1222,4 +1222,4 @@ cursor: pointer;
   .main-content {
     display: none;
   }
-}
+}**/
