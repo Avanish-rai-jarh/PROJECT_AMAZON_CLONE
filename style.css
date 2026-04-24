@@ -22,7 +22,7 @@ header{
     width: 100%;
 }
 .nav{
-    height: 71px;
+    height: 4.4375rem;
     width: 100%;
     color: white;
     background-color: #131A22;
@@ -32,36 +32,36 @@ header{
    
 }
 .logo{
-    height: 69px;
-    width: 100px;
+    height: 4.3125rem;
+    width: 6.25rem;
     display:inline-block;
     background-color: #131A22;
 }
 .logoicon{
-   height: 69px;
-   width: 100px; 
+   height: 4.3125rem;
+   width: 6.25rem;
    background-image: url("amanew.png");
    background-size: 100%;
    background-position: center;
    background-repeat: no-repeat;
-   border-radius: 2px;
+   border-radius: 0.125rem;
    background-color: #131A22;
 
 }
 .logoicon:hover{
-    border:1px solid aliceblue ;
+    border:0.0625rem solid aliceblue ;
     cursor: pointer;
 }
 .location{
-    height: 70px;
-    width: 110px;
+    height: 4.375rem;
+    width: 6.875rem;
     color:aliceblue;
     background-color: #131A22;
-    margin-left: 1px;
+    margin-left: 0.0625rem;
 }
 .locationicon{
-    height: 40px;
-    width: 98px;
+    height: 2.5rem;
+    width: 6.125rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -71,11 +71,11 @@ header{
 .word1{
    color:aliceblue;
    background-color: #131A22; 
-   margin-left: 35px;
+   margin-left: 2.1875rem;
    font-size: 0.8rem;
    position: relative;
-   top: 8px;
-   right: 10px;
+   top: 0.5rem;
+   right: 0.625rem;
    
 }
 .locationicon{
@@ -91,12 +91,12 @@ header{
 
 }
 .location:hover{
-    border: 1px solid aliceblue;
+    border: 0.0625rem solid aliceblue;
     cursor: pointer;
 }
 .search{
-    height:70px;
-    width:950px;
+    height:4.375rem;
+    width:59.375rem;
     background-color: #131A22;
     color: aliceblue;
     display: flex;
@@ -108,42 +108,42 @@ header{
     cursor: pointer;
 }
 .dropdown{
-    height: 40px;
-    width: 50px;
+    height: 2.5rem;
+    width: 3.125rem;
     background-color: #f3f3f3;
-    border-top-left-radius: 2px;
-    border-bottom-left-radius: 2px;
+    border-top-left-radius: 0.125rem;
+    border-bottom-left-radius: 0.125rem;
     text-align: center;
     font-size: 0.8rem;
-    margin-left: 1px;
+    margin-left: 0.0625rem;
     border: none;
     outline: none;
     
     
 }
 .searchbar{
-    height: 40px;
-    width: 850px;
+    height: 2.5rem;
+    width: 53.125rem;
     background-color: white;
     font-size: 1.1rem;
     border: none;
     outline: none;
 }
 .searchbar:focus{
-    border: 2px solid #febd68;
+    border: 0.125rem solid #febd68;
 }
 .searchbar:hover{
     background-color: aliceblue;
 }
 .searchicon{
-    height: 40px;
-    width: 50px;
+    height: 2.5rem;
+    width: 3.125rem;
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #febd68;
-    border-top-right-radius: 2px;
-    border-bottom-right-radius: 2px;
+    border-top-right-radius: 0.125rem;
+    border-bottom-right-radius: 0.125rem;
     font-size: 1.3rem;
 }
 .dropdown:hover{
@@ -151,29 +151,29 @@ header{
     cursor: pointer;
 }
 .dropdown:focus{
-    border: 1px solid #febd68;
+    border: 0.0625rem solid #febd68;
 }
 .searchicon:hover{ 
     background-color: #f9b381;
     cursor: pointer;
 }
 .lang{
-    height: 70px;
-    width:80px;
+    height: 4.375rem;
+    width:5rem;
     background-color: #131A22;
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-left: 2px;
+    padding-left: 0.125rem;
 }
 .langicon{
-    height: 20px;
-    width: 30px;
+    height: 1.25rem;
+    width: 1.875rem;
     
 }
 .indus{
-    height: 28px;
-    width: 40px;
+    height: 1.75rem;
+    width: 2.5rem;
     color: white;
     background-color: #131A22;
     border: none;
@@ -183,12 +183,12 @@ header{
     cursor: pointer;
 }
 .lang:hover{
-    border: 1px solid aliceblue;
+    border: 0.0625rem solid aliceblue;
     cursor: pointer;
 }
 .avanish{
-    height: 70px;
-    width: 180px;
+    height: 4.375rem;
+    width: 11.25rem;
     background-color: #131A22;
     display: block;
     text-align: center;
@@ -198,7 +198,7 @@ header{
     background-color: #131A22;
     font-size: 0.8rem;
     position: relative;
-    bottom: -10px;
+    bottom: -0.625rem;
     
 }
 .info{
@@ -208,18 +208,18 @@ header{
     border: none;
     outline: none;
     position: relative;
-    bottom:-13px ;
+    bottom:-0.8125rem ;
 }
 .info{
     cursor: pointer;
 }
 .avanish:hover{
-    border: 1px solid aliceblue;
+    border: 0.0625rem solid aliceblue;
     cursor: pointer;
 }
 .random{
-    height: 70px;
-    width: 70px;
+    height: 4.375rem;
+    width: 4.375rem;
     background-color: #131A22;
     display: block;
     text-align: center;
@@ -231,7 +231,7 @@ header{
     font-size: 0.8rem;
     background-color: #131A22;
     position: relative;
-    top: 10px;
+    top: 0.625rem;
     
 }
 .p2{
@@ -239,15 +239,15 @@ header{
     font-size: 1rem;
     background-color: #131A22;
     position: relative;
-    top: 13px;
+    top: 0.8125rem;
 }
 .random:hover{
-    border: 1px solid aliceblue;
+    border: 0.0625rem solid aliceblue;
     cursor: pointer;
 }
 .cart{
-    height: 70px;
-    width: 100px;
+    height: 4.375rem;
+    width: 6.25rem;
     font-size: 2rem;
     background-color: #131A22;
     display: flex;
@@ -255,7 +255,7 @@ header{
     align-items: center;
 }
 .cart:hover{
-    border: 1px solid aliceblue;
+    border: 0.0625rem solid aliceblue;
     cursor: pointer;
 }
 .name{
@@ -269,22 +269,22 @@ header{
 }
 /* panel */
 .panel{
-    height: 40px;
+    height: 2.5rem;
     width: 100%;
     background-color: #232F3E;
     color: white;
 }
 .panel0{
-    height: 40px;
+    height: 2.5rem;
     width: 70%;
     background-color: #232F3E;
     display:flex;
     align-items: center;
-    gap: 15px;
+    gap: 0.9375rem;
 }
 .panel1{
-    height: 40px;
-    width: 70px;
+    height: 2.5rem;
+    width: 4.375rem;
     background-color: #232F3E;
     display: flex;
     justify-content: center;
@@ -292,12 +292,12 @@ header{
     font-weight: 700;
 }
 .panel1:hover{
-    border: 1px solid aliceblue;
+    border: 0.0625rem solid aliceblue;
     cursor: pointer;
 }
 .panel2{
-    height: 40px;
-    width: 110px;
+    height: 2.5rem;
+    width: 6.875rem;
     background-color: #232F3E;
     text-align: center;
     display: flex;
@@ -305,11 +305,11 @@ header{
     align-items: center;
 }
 .panel2:hover{
-    border: 1px solid aliceblue;
+    border: 0.0625rem solid aliceblue;
     cursor: pointer;
 }
 .hero1{
-    height: 400px;
+    height: 25rem;
     width: 100%;
     width: calc(100vw-17px);
     max-width: 100vw;
@@ -320,18 +320,18 @@ header{
     
 }
 .info1{
-    height: 40px;
+    height: 2.5rem;
     width: 100%;
     color: black;
     position: relative;
-    top: 350px;
+    top: 21.875rem;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .info2{
-    height: 40px;
+    height: 2.5rem;
     width: 95%;
     background-color: white;
     text-align: center;
@@ -354,28 +354,28 @@ header{
     text-decoration: underline;
 }
 .shops{
-    height: 530px;
+    height: 33.125rem;
     width: 100%;
     background-color: #95b4aa;
     display: flex;
     justify-content: space-evenly;
-    gap:15px ;
+    gap:0.9375rem;
     align-items: center;
 }
 .market{
-    height: 500px;
+    height: 31.25rem;
     width: 25%;
     background-color: white;
-    padding-left: 20px;
-    padding-right:20px;
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
 }
 .materials{
-    height: 445px;
+    height: 27.8125rem;
     width:100%;
     font-size: 0.8rem;
     background-color: #c8ddd1;
     display: flex;
-    gap: 10px;
+    gap: 0.625rem;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
@@ -403,8 +403,8 @@ cursor: pointer;
     background-position: center;
 }
 .a1{
-    height: 150px;
-    width: 150px;
+    height: 9.375rem;
+    width: 9.375rem;
     background-color: white;
 }
 .L1{
@@ -456,8 +456,8 @@ cursor: pointer;
     background-position: center; 
 }
 .M1{
-    height: 150px;
-    width: 300px;
+    height: 9.375rem;
+    width: 18.75rem;
     background-color: white;
     background-image: url("https://m.media-amazon.com/images/I/313wAT6Iy2L._SY160_.jpg");
     background-size: cover;
@@ -465,20 +465,20 @@ cursor: pointer;
     background-position: center; 
 }
 .new{
-    height: 180px;
-    width: 304px;
+    height: 11.25rem;
+    width: 19rem;
     font-size: 0.8rem;
     background-color:none;
     display: flex;
-    gap: 2px;
+    gap: 0.125rem;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     flex-direction: column;
 }
 .M2{
-    height: 150px;
-    width: 100px;
+    height: 9.375rem;
+    width: 6.25rem;
     background-color: white;
     background-image: url("https://m.media-amazon.com/images/I/21W7-lndINL._SY75_.jpg");
     background-size: cover;
@@ -486,8 +486,8 @@ cursor: pointer;
     background-position: center;
 }
 .M3{
-   height: 150px;
-   width: 100px;
+   height: 9.375rem;
+   width: 6.25rem;
    background-color:white;
    background-image: url("https://m.media-amazon.com/images/I/21B-NkA9p-L._SY75_.jpg");
    background-size: cover;
@@ -495,8 +495,8 @@ cursor: pointer;
    background-position: center;
 }
 .M4{
-   height: 150px;
-   width: 100px;
+   height: 9.375rem;
+   width: 6.25rem;
    background-color: white;
    background-image: url("https://m.media-amazon.com/images/I/217GQ1a2QzL._SY75_.jpg");
    background-size: cover;
@@ -826,7 +826,7 @@ cursor: pointer;
 
 /* lower */
 .lower{
-    height: 200px;
+    height: 12.5rem;
     width:100% ;
     background-color: white;
     display: flex;
@@ -834,10 +834,10 @@ cursor: pointer;
     align-items: center;
 }
 .lower1{
-  height: 150px;
+  height: 9.375rem;
   width:100% ;
   background-color: white;
-  border: 0.5px solid black; 
+  border: 0.03125rem solid black; 
   display: flex; 
   flex-wrap: wrap;
   justify-content: center;
@@ -845,9 +845,9 @@ cursor: pointer;
   flex-direction: column;
 }
 .lower2{
-    height: 40px;
-    width: 200px;
-    border-radius: 999px;
+    height: 2.5rem;
+    width: 12.5rem;
+    border-radius: 62.4375rem;
     border: none;
     outline: none;
     font-weight: bold;
@@ -861,7 +861,7 @@ cursor: pointer;
 .para3{
 font-size: 1.5rem;
 font-weight: 700;
-padding-bottom:10px;
+padding-bottom:0.625rem;
 }
 .para4{
 text-decoration: none;  
@@ -871,11 +871,11 @@ text-decoration: none;
 }
 #idA{
 font-size: 0.8rem;
-padding-top:10px; 
+padding-top:0.625rem;
 }
 /* bottoom */
 .foot{
-    height: 60px;
+    height: 3.75rem;
     width:100% ;
     color: white;
     background-color: #37475A;
@@ -890,16 +890,16 @@ padding-top:10px;
     background-color: #41546b;
 }
 .footer{
-    height: 350px;
+    height: 21.875rem;
     width: 100%;
     color: white;
     background-color: #232F3E;
     display: flex;
-    gap: 60px;
+    gap: 3.75rem;
     justify-content: center;
 }
 .w{
-    margin-top: 30px;
+    margin-top: 1.875rem;
 }
 .para6{
     color: rgb(228, 214, 214);
@@ -910,17 +910,17 @@ padding-top:10px;
     text-decoration: underline;
 }
 .foot1{
-    height: 100px;
+    height: 6.25rem;
     width: 100%;
     background-color: #232F3E;
     display: flex;
-    gap: 200px;
+    gap: 12.5rem;
     justify-content: center;
     align-items: center;
 }
 .footer1{
-    height: 50px;
-    width:100px ;
+    height: 3.125rem;
+    width:6.25rem;
     background-color: #f9b381;
     background-image: url("https://th.bing.com/th/id/R.4deff7f3c4e7e73e74ba4a03708ea8db?rik=elR0mwIGQBh2Kw&riu=http%3a%2f%2foutdoor-fashion-camp.com%2fwp-content%2fuploads%2f2018%2f02%2famazon-logo2-e1670019658881.png&ehk=79AKEudZjqExHR36%2b4d%2bn9nEqmdCLmMUDkDYElR6guw%3d&risl=&pid=ImgRaw&r=0");
     background-size: cover;
@@ -931,17 +931,17 @@ padding-top:10px;
 cursor: pointer;
 }
 .footer2{
-    height: 50px;
-    width:370px ;
+    height: 3.125rem;
+    width:23.125rem;
     background-color:#232F3E;
     display: flex;
-    gap: 5px;
+    gap: 0.3125rem;
     justify-content: center;
     align-items: center;
 }
 .button1{
-   height: 50px;
-   width:120px ;
+   height: 3.125rem;
+   width:7.5rem;
    color: white;
    background-color:#232F3E;
    display: flex;
@@ -962,24 +962,24 @@ cursor: pointer;
   font-size: 1rem;  
 }
 .gama{
-  height: 20px;
-  width: 30px;  
+  height: 1.25rem;
+  width: 1.875rem;
 }
 .delta{
     position: relative;
-    left: 2px;
+    left: 0.125rem;
     font-size: 1rem;
 }
 .cursor:hover{
     cursor: pointer;
 }
 .last{
-    height: 500px;
+    height: 31.25rem;
     width: 100%;
     color: white;
     background-color:#131A22 ;
     display: flex;
-    gap: 60px;
+    gap: 3.75rem;
     justify-content: center;
 }
 .para7{
@@ -993,22 +993,22 @@ cursor: pointer;
 }
 
 .routine{
-    margin-top: 20px;
+    margin-top: 1.25rem;
 }
 .last1{
-    height: 23px;
+    height: 1.4375rem;
     width: 100%;
     color: white;
     background-color:#131A22 ;
     display: flex;
     align-items: center;
-    gap: 30px;
+    gap: 1.875rem;
     justify-content: center;
     font-weight: 300; 
     font-size: 0.9rem;
 }
 .last2{
-    height: 23px;
+    height: 1.4375rem;
     width: 100%;
     color: white;
     background-color:#131A22;
@@ -1019,7 +1019,7 @@ cursor: pointer;
     font-size: 0.9rem;
 }
 .free{
-    height: 500px;
+    height: 31.25rem;
     width: 100%;
     background-color: #95b4aa;
     display: flex;
@@ -1029,7 +1029,7 @@ cursor: pointer;
     flex-direction: column;
 }
 .para9{
-   height: 60px; 
+   height: 3.75rem;
    width: 100%;
    color: black;
    background-color: #95b4aa;
@@ -1040,17 +1040,17 @@ cursor: pointer;
    font-weight: 700;
 }
 .block{
-    height: 440px;
+    height: 27.5rem;
     width: 100%;
     background-color: #95b4aa;
     display: flex;
-    gap: 10px;
+    gap: 0.625rem;
     justify-content: center;
     align-items: center;
 }
 .block1{
-    height: 400px;
-    width: 300px;
+    height: 25rem;
+    width: 18.75rem;
     background-color: #95b4aa;
 }
 .z1{
@@ -1209,11 +1209,11 @@ cursor: pointer;
 .main-content {
   display: block;
 }
-@media (max-width: 600px) {
+@media (max-width: 37.5rem) {
   .not-supported {
     display: block;
     text-align: center;
-    padding: 50px;
+    padding: 3.125rem;
     font-size: 1.5rem;
     background: #fdd;
     color: #a00;
